@@ -7,7 +7,6 @@ def main():
     print("so i can work long time")
     print("and one more time")
     print("and last time")
-    print("and another one")
     my_sf()
 
 if __name__ == "__main__":
