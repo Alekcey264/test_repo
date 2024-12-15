@@ -6,6 +6,7 @@ def main():
     print("and i change it")
     print("and again")
     print("and one more time")
+    print("and last time")
     my_sf()
 
 if __name__ == "__main__":
