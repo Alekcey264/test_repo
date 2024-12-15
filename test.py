@@ -1,5 +1,5 @@
 def my_sf():
-    print("What an awesome print!")
+    print("Yandex Lyceum!")
 
 def main():
     print("Git Program")
